@@ -1,2 +1,1 @@
-# playerrank
-playerrank
+排行榜服务数
